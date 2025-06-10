@@ -1,3 +1,5 @@
+#include <bits/stdio.h>
+using namespace std;
 int main()
 {
     int n, m, k;
